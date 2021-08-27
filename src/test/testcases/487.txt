@@ -1,0 +1,9 @@
+
+        function _func($a, $b){
+            return 1;
+        }
+        $a = "123";
+        function _main(){
+            $a = _func(1, 2);
+        }
+        

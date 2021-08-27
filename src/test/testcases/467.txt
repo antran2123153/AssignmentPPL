@@ -1,0 +1,7 @@
+
+        function _main(){
+            if("abc"){
+                return 1;
+            }
+        }
+        

@@ -1,0 +1,1 @@
+TypeMismatchInExpr(ArrayAccess(Id(A),[IntLit(1),IntLit(1),IntLit(1)]))

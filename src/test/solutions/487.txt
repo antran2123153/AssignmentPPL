@@ -1,0 +1,1 @@
+TypeMismatchInStmt(Assign(Id($a),Call(Id(_func),[IntLit(1),IntLit(2)])))

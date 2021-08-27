@@ -1,0 +1,7 @@
+
+        function _foo($a){
+        }
+        function _main($b){
+            _foo(1, 2);
+        }
+        

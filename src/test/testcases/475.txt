@@ -1,0 +1,6 @@
+
+        define(A, array(1 => "a", 2 => "b", 3 => "c"));
+        function _main(){
+            $a = A["1"];
+        }
+        

@@ -1,0 +1,9 @@
+
+        function _main(){
+            $a = array("1", "2", "3");
+            foreach($a as $key => $value){
+                $b = $key + $value;
+            }
+            $a = $e;
+        }
+        

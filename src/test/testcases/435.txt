@@ -1,0 +1,9 @@
+
+        function _func($a, $b){
+            return 1;
+        }
+        $a = array("1", "2", "3");
+        function _main(){
+            $a[1] = _func(1, 2);
+        }
+        

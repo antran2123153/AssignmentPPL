@@ -1,0 +1,1 @@
+TypeCannotBeInferred(Call(Id(_foo),[Id($a)]))

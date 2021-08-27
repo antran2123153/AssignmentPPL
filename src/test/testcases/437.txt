@@ -1,0 +1,10 @@
+
+        function _func(){
+            return 1;
+        }
+        function _main(){
+            if(_func()){
+                _echo(123);
+            }
+        }
+        

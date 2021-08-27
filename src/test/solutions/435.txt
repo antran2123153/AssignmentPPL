@@ -1,0 +1,1 @@
+TypeMismatchInExpr(Assign(ArrayAccess(Id($a),[IntLit(1)]),Call(Id(_func),[IntLit(1),IntLit(2)])))

@@ -1,0 +1,1 @@
+TypeMismatchInStmt(If([(Call(Id(_func),[]),[Call(Id(_echo),[IntLit(123)])])],[]))

@@ -1,0 +1,10 @@
+
+        function _main(){
+            $a = array(1, 2, 3);
+            $d = 123;
+            foreach($a as $b => $c){
+                $d = "123";
+            }
+            
+        }
+        

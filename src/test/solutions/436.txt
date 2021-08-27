@@ -1,0 +1,1 @@
+TypeMismatchInStmt(If([(BinExp(+,IntLit(1),IntLit(2)),[Call(Id(_echo),[IntLit(123)])])],[]))

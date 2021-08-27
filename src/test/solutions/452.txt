@@ -1,0 +1,1 @@
+TypeMismatchInExpr(BinExp(+.,ArrayAccess(Id($value),[IntLit(1)]),StringLit(123)))

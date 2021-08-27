@@ -1,0 +1,9 @@
+
+        function _func($a, $b){
+            return $a + $b;
+        }
+        function _main(){
+            $c = _func(1, 2) + 1;
+            $d = $e + 1;
+        }
+        

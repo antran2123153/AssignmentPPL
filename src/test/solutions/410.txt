@@ -1,0 +1,1 @@
+TypeCannotBeInferred(Assign(Id($b),BinExp(+,Call(Id(_foo),[Id($b)]),IntLit(1))))

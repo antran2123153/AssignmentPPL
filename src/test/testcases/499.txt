@@ -1,0 +1,10 @@
+
+        function _foo($b){
+            $a = array(1,2,3);
+            $b = $a;
+        }
+        function _main(){
+            $c = array(1,2,3);
+            _foo($c);
+        }
+        

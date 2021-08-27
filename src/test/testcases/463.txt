@@ -1,0 +1,8 @@
+
+        function _foo($a){
+            return 1;
+        }
+        function _main($b){
+            $b = _foo($b) + 1;
+        }
+        
